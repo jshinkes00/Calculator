@@ -1,0 +1,14 @@
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\bin\Debug\net9.0\새 폴더 (2).exe
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\bin\Debug\net9.0\새 폴더 (2).deps.json
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\bin\Debug\net9.0\새 폴더 (2).runtimeconfig.json
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\bin\Debug\net9.0\새 폴더 (2).dll
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\bin\Debug\net9.0\새 폴더 (2).pdb
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\새 폴더 (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\새 폴더 (2).AssemblyInfoInputs.cache
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\새 폴더 (2).AssemblyInfo.cs
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\새 폴더 (2).csproj.CoreCompileInputs.cache
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\새 폴더 (2).dll
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\refint\새 폴더 (2).dll
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\새 폴더 (2).pdb
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\새 폴더 (2).genruntimeconfig.cache
+C:\Users\0168y\OneDrive\바탕 화면\새 폴더 (2)\obj\Debug\net9.0\ref\새 폴더 (2).dll
