@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("새 폴더 (2)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6546a7f78d4e0da8823dd29c15505f18fe6f4f57")]
 [assembly: System.Reflection.AssemblyProductAttribute("새 폴더 (2)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("새 폴더 (2)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
